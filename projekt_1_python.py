@@ -4,7 +4,7 @@ projekt_1.py: první projekt do Engeto Online Python Akademie
 
 author: Alice Kocirova  
 email: a.kocirova@gmail.com
-discord: Alice K. 
+discord: alicekocirova
 """
 
 
